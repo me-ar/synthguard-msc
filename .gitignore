@@ -1,0 +1,13 @@
+# Data files — too large for GitHub
+Desertation/data/
+*.csv
+
+# Python
+__pycache__/
+*.pkl
+.venv/
+*.pyc
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store

@@ -1,0 +1,3 @@
+MIA Success Rate (Baseline CTGAN): 5.01%
+Records flagged: 275 / 5492
+Distance threshold: 12.4990

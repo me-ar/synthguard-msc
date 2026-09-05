@@ -1,0 +1,4 @@
+Baseline CTGAN quality score: 80.96%
+DP synthesis quality score:   94.59%
+Baseline MIA success rate:    5.01%
+DP MIA success rate:          0.00%
