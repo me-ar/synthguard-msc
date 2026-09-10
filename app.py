@@ -288,7 +288,7 @@ The research behind this tool found that **ε = 1.0** eliminates all measurable 
 <div style='font-size:0.78rem; color:#4A5570;'>
 MSc Data Science Project<br>
 University of Liverpool<br>
-Adesh Raj Rajkumar · 2025
+Adesh Raj Rajkumar · 2026
 </div>
 """, unsafe_allow_html=True)
 
