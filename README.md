@@ -30,6 +30,7 @@ python 07_epsilon_sweep.py
 Uses the Credit Card Fraud Detection dataset from Kaggle. Download it and place it at:
 `Desertation/data/creditcard.csv`
 
+
 ## Research findings
 - Baseline CTGAN quality score: 80.96%, MIA rate: 5.01%
 - DP synthesis (ε=1.0) quality score: 96.05%, MIA rate: 0.00%
